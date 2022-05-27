@@ -1,4 +1,4 @@
-import logo from './assets/images/Backlog.png';
+import logo from './assets/images/Udeg.jpg';
 import './assets/css/App.css';
 
 //Importar componentes
